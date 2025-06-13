@@ -6,7 +6,7 @@
 3.	Provide diligent and competent service to principals.
 4.	Advance and protect the profession.
 ________________________________________
-✅ 25 Questions on ISC2 Code of Ethics Canons
+## Questions on ISC2 Code of Ethics Canons
 1. Which Canon is MOST likely violated if a cybersecurity professional leaks customer data for personal gain?
 A. Advance the profession
 B. Provide competent service
