@@ -8,101 +8,171 @@
 ________________________________________
 ## Questions on ISC2 Code of Ethics Canons
 1. Which Canon is MOST likely violated if a cybersecurity professional leaks customer data for personal gain?
+
 A. Advance the profession
+
 B. Provide competent service
+
 C. Act honorably and legally
+
 D. Protect public trust
+
 ✅ Answer: C
 ________________________________________
 2. A professional reports a vulnerability to a vendor promptly and responsibly. Which Canon is best reflected?
+
 A. Protect society and public trust
+
 B. Advance the profession
+
 C. Provide competent service
+
 D. Act legally
+
 ✅ Answer: A
 ________________________________________
 3. Which action BEST demonstrates "advancing and protecting the profession"?
+
 A. Avoiding social media interactions
+
 B. Mentoring new cybersecurity professionals
+
 C. Ignoring new industry trends
+
 D. Refusing to work with junior staff
+
 ✅ Answer: B
 ________________________________________
 4. Ignoring a phishing simulation email to avoid participation violates which Canon?
+
 A. Provide diligent and competent service
+
 B. Protect the common good
+
 C. Act honorably and responsibly
+
 D. Advance the profession
+
 ✅ Answer: C
 ________________________________________
 5. Refusing to testify truthfully in a court case related to cybersecurity is a violation of which Canon?
+
 A. Act honorably, honestly, justly, responsibly, and legally
+
 B. Protect infrastructure
+
 C. Provide competent service
+
 D. Advance the profession
+
 ✅ Answer: A
 ________________________________________
 6. A security analyst shares confidential client information without consent. This violates:
+
 A. Protect the common good
+
 B. Provide competent service
+
 C. Act honorably and legally
+
 D. Advance the profession
+
 ✅ Answer: C
 ________________________________________
 7. What is the FIRST Canon in the ISC2 Code of Ethics?
+
 A. Provide diligent and competent service to principals
+
 B. Protect society, the common good, public trust, and infrastructure
+
 C. Advance the profession
+
 D. Act legally and responsibly
+
 ✅ Answer: B
 ________________________________________
 8. A professional writes fake references on their résumé. Which Canon is breached?
+
 A. Advance the profession
+
 B. Provide diligent service
+
 C. Act honorably and honestly
+
 D. Protect the infrastructure
+
 ✅ Answer: C
 ________________________________________
 9. Participating in continuous professional development (CPD) supports which Canon?
+
 A. Protect society
+
 B. Advance and protect the profession
+
 C. Act responsibly
+
 D. Provide competent service
+
 ✅ Answer: B
 ________________________________________
 10. If you identify a misconfigured firewall that exposes sensitive data and do nothing, which Canon are you violating?
+
 A. Act honorably and responsibly
+
 B. Advance the profession
+
 C. Protect society and infrastructure
+
 D. Provide diligent service
+
 ✅ Answer: C
 ________________________________________
 11. Giving back to the profession by presenting at conferences aligns with which Canon?
+
 A. Act legally
+
 B. Advance and protect the profession
+
 C. Protect public trust
+
 D. Provide competent service
+
 ✅ Answer: B
 ________________________________________
 12. Which Canon includes the duty to stay informed about current threats and technology?
+
 A. Advance and protect the profession
+
 B. Act legally and responsibly
+
 C. Provide diligent and competent service
+
 D. Protect society
+
 ✅ Answer: C
 ________________________________________
 13. A cybersecurity expert fails to patch known vulnerabilities. This is a violation of:
+
 A. Advance the profession
+
 B. Act responsibly
+
 C. Provide diligent service to principals
+
 D. Protect society
+
 ✅ Answer: C
 ________________________________________
 14. Helping law enforcement with cybercrime investigation, when done properly, supports which Canon?
+
 A. Protect the common good and public trust
+
 B. Act legally
+
 C. Provide competent service
+
 D. Advance the profession
+
 ✅ Answer: A
 ________________________________________
 15. Plagiarizing another professional’s research violates which Canon?
